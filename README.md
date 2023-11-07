@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **waihlengpyae@gmail.com**
 
-- ⚡ Fun fact **I've never owned a pair of airforces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
