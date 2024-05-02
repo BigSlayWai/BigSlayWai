@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **becoming a software engineer**
 
-- 🌱 I’m currently learning **Back End development and APIs**
+- 🌱 I’m currently learning **to pass my AWS Developer Associate**
 
-- 📫 How to reach me **waihlengpyae@gmail.com**
+- 📫 How to reach me **waihlengisatwork@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
