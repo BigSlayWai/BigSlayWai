@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigslaywai&label=Profile%20views&color=0e75b6&style=flat" alt="bigslaywai" /> </p>
 
-- 🔭 I’m currently working on **becoming a software engineer**
+- 🔭 I’ve just passed my **AWS Developer Associate**
 
-- 🌱 I’m currently learning **to pass my AWS Developer Associate**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **waihlengisatwork@gmail.com**
 
