@@ -7,7 +7,7 @@
 
 - 🔭 I’ve just passed my **AWS Developer Associate**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 📫 How to reach me **waihlengisatwork@gmail.com**
 
