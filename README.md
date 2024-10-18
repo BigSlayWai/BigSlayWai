@@ -1,7 +1,7 @@
 
 
 
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/o88Bd-XsPN4AAAAC/family-guy-peter-griffin.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/o88Bd-XsPN4AAAAC/family-guy-peter-griffin.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigslaywai&label=Profile%20views&color=0e75b6&style=flat" alt="bigslaywai" /> </p>
 
