@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigslaywai&label=Profile%20views&color=0e75b6&style=flat" alt="bigslaywai" /> </p>
 
-- 🔭 I’ve just passed my **AWS Developer Associate**
+- 🔭 I’ve just passed **The Northcoders Software Engineer Bootcamp**
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **C and C++
 
 - 📫 How to reach me **waihlengisatwork@gmail.com**
 
