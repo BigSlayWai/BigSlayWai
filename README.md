@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigslaywai&label=Profile%20views&color=0e75b6&style=flat" alt="bigslaywai" /> </p>
 
-- 🔭 I’ve just passed **The Northcoders Software Engineer Bootcamp**
+- 🔭 Finished working for a startup making an **integrated live events platform with authentication**
 
 - 🌱 I’m currently learning **C and C++
 
