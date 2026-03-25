@@ -7,7 +7,7 @@
 
 - 🔭 Finished working for a startup making an **integrated live events platform with authentication**
 
-- 🌱 I’m currently learning **C and C++
+- 🌱 I’m currently learning linear algebra
 
 - 📫 How to reach me **waihlengisatwork@gmail.com**
 
