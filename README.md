@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigslaywai&label=Profile%20views&color=0e75b6&style=flat" alt="bigslaywai" /> </p>
 
-- 🔭 Finished working for a startup making an **integrated live events platform with authentication**
+- 🔭 Finished interning at M&G, working on **Dynatrace, Terraform and Microsoft Azure**
 
-- 🌱 I’m currently learning linear algebra
+- 🌱 I’m currently learning for my Linux Red Hat Exams
 
 - 📫 How to reach me **waihlengisatwork@gmail.com**
 
